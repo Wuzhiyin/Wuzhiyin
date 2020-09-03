@@ -1,8 +1,7 @@
 ### 👋 Hey! Guys
 ## I'm ZhiYin Wu
 
----
-> A technical programmer of China. Aha! 😜
+ A technical programmer of China. Aha! 😜
 
 > SUCCESS ALWAYS BELONGS TO THOSE WHO ACT AT ONCE !
 
